@@ -1,0 +1,45 @@
+{
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/cli-platform-android": "^7.0.1",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-navigation/drawer": "^5.12.5",
+    "@react-navigation/native": "6.0.8",
+    "@react-navigation/native-stack": "^6.5.2",
+    "@react-navigation/stack": "6.0.8",
+    "@types/react": "^17.0.43",
+    "axios": "^0.21.1",
+    "expo": "~41.0.1",
+    "expo-image-picker": "~10.1.4",
+    "expo-splash-screen": "~0.10.2",
+    "expo-status-bar": "~1.0.4",
+    "expo-updates": "~0.5.4",
+    "formik": "^2.2.6",
+    "jsx-runtime": "^1.2.0",
+    "react": "^17.0.2",
+    "react-dom": "16.13.1",
+    "react-native": "~0.63.4",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-location": "^2.5.0",
+    "react-native-maps": "0.27.1",
+    "react-native-multiple-select": "^0.5.7",
+    "react-native-reanimated": "~2.1.0",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "~3.0.0",
+    "react-native-unimodules": "~0.13.3",
+    "react-native-web": "~0.13.12",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "private": true,
+  "name": "react-native-auth-app-front-end",
+  "version": "1.0.0"
+}
